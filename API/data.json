@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "name": "mina",
+      "age": "24",
+      "id": 6
+    },
+    {
+      "name": "Manny",
+      "age": "24",
+      "id": 7
+    },
+    {
+      "name": "je",
+      "age": "35",
+      "address": "zambales",
+      "id": 8
+    },
+    {
+      "name": "jow",
+      "age": "10",
+      "address": "zambales",
+      "id": 9
+    }
+  ]
+}
